@@ -1,0 +1,80 @@
+[
+    {
+        "usuario": "jvega156",
+        "contrasena": "88135641",
+        "nombre": "Jaime Alejandro Vega Barbosa",
+        "correo": "jvega156@unab.edu.co",
+        "rol": "Admin",
+        "horas_libres": 1.0
+    },
+    {
+        "nombre": "Julian Santoyo",
+        "usuario": "Julian1",
+        "contrasena": "1234",
+        "correo": "julian@unab.edu.co",
+        "rol": "Admin"
+    },
+    {
+        "nombre": "",
+        "usuario": "",
+        "contrasena": "",
+        "correo": "",
+        "rol": "Admin",
+        "carrera": "",
+        "creditos": 0,
+        "creditos_completados": 0
+    },
+    {
+        "nombre": "Jaime Alejandro Vega Barbosa",
+        "usuario": "2",
+        "contrasena": "",
+        "correo": "",
+        "rol": "Estudiante",
+        "carrera": "Ingenieria de Sistemas",
+        "creditos": 151,
+        "creditos_completados": 151,
+        "horas_libres": 89.0
+    },
+    {
+        "nombre": "1",
+        "usuario": "1",
+        "contrasena": "",
+        "correo": "",
+        "rol": "Estudiante",
+        "carrera": "Ingenieria Biomedica",
+        "creditos": 153,
+        "creditos_completados": 34
+    },
+    {
+        "nombre": "Jaime",
+        "usuario": "3",
+        "contrasena": "3",
+        "correo": "",
+        "rol": "Estudiante",
+        "carrera": "Ingenieria Mecatronica",
+        "creditos": 154,
+        "creditos_completados": 0,
+        "horas_libres": 3.0
+    },
+    {
+        "nombre": "2",
+        "usuario": "``",
+        "contrasena": "",
+        "correo": "",
+        "rol": "Estudiante",
+        "carrera": "Ingenieria de Sistemas",
+        "creditos": 151,
+        "creditos_completados": 151,
+        "horas_libres": 90.0
+    },
+    {
+        "nombre": "Jaime",
+        "usuario": "jvega",
+        "contrasena": "1",
+        "correo": "12",
+        "rol": "Estudiante",
+        "carrera": "Ingenieria Biomedica",
+        "creditos": 153,
+        "creditos_completados": 4
+    }
+]

@@ -1,0 +1,501 @@
+{
+    "Ingenieria Biomedica": {
+      "Primer Semestre": [
+        {"Materia": "Álgebra Lineal", "Creditos": 3},
+        {"Materia": "Biología Estructural", "Creditos": 2},
+        {"Materia": "Cálculo Diferencial", "Creditos": 4},
+        {"Materia": "Expresión", "Creditos": 4},
+        {"Materia": "Fundamentos de Programación", "Creditos": 3},
+        {"Materia": "Laboratorio Biología Estructural", "Creditos": 0},
+        {"Materia": "Seminario de Ingeniería I", "Creditos": 2}
+      ],
+
+      "Segundo Semestre": [
+        {"Materia": "Biología Celular y Molecular", "Creditos": 2},
+        {"Materia": "Cálculo Integral", "Creditos": 4},
+        {"Materia": "Dibujo de Ingeniería", "Creditos": 2},
+        {"Materia": "Identidad", "Creditos": 3},
+        {"Materia": "Laboratorio Biología Celular y Molecular", "Creditos": 0},
+        {"Materia": "Laboratorio de Mecánica", "Creditos": 0},
+        {"Materia": "Mecánica y Laboratorio", "Creditos": 3},
+        {"Materia": "Programación de Computadores", "Creditos": 3}
+      ],
+
+      "Tercer Semestre": [
+        {"Materia": "Bioquímica", "Creditos": 2},
+        {"Materia": "Cálculo en Varias Variables", "Creditos": 3},
+        {"Materia": "Creatividad", "Creditos": 3},
+        {"Materia": "Dibujo Asistido por Computador", "Creditos": 2},
+        {"Materia": "Electromagnetismo y Laboratorio", "Creditos": 3},
+        {"Materia": "Estadística General", "Creditos": 3},
+        {"Materia": "Laboratorio Bioquímica", "Creditos": 0},
+        {"Materia": "Laboratorio de Electromagnetismo", "Creditos": 0},
+        {"Materia": "Seminario de Ingeniería II", "Creditos": 2}
+      ],
+
+      "Cuarto Semestre": [
+        {"Materia": "Circuitos Eléctricos", "Creditos": 3},
+        {"Materia": "Ecuaciones Diferenciales", "Creditos": 3},
+        {"Materia": "Electiva Sociohumanística", "Creditos": 3},
+        {"Materia": "Laboratorio Circuitos Eléctricos", "Creditos": 0},
+        {"Materia": "Laboratorio Morfofisiología Biomédica I", "Creditos": 0},
+        {"Materia": "Laboratorio Termofluidos", "Creditos": 0},
+        {"Materia": "Morfofisiología Biomédica I", "Creditos": 3},
+        {"Materia": "Taller de Deportes, Recreación y Cultura", "Creditos": 1},
+        {"Materia": "Taller de Desarrollo Humano", "Creditos": 1},
+        {"Materia": "Termofluidos", "Creditos": 3}
+      ],
+
+      "Quinto Semestre": [
+        {"Materia": "Biomecánica Deportiva", "Creditos": 2},
+        {"Materia": "Electiva de Contexto", "Creditos": 3},
+        {"Materia": "Electrónica Análoga", "Creditos": 3},
+        {"Materia": "Equipos Médicos Básicos", "Creditos": 2},
+        {"Materia": "Imágenes Biomédicas", "Creditos": 2},
+        {"Materia": "Ingeniería Clínica", "Creditos": 3},
+        {"Materia": "Laboratorio Biomecánica Deportiva", "Creditos": 0},
+        {"Materia": "Laboratorio Electrónica Análoga", "Creditos": 0},
+        {"Materia": "Laboratorio Equipos Médicos Básicos", "Creditos": 0},
+        {"Materia": "Laboratorio Ingeniería Clínica", "Creditos": 0},
+        {"Materia": "Procesamiento de Señales Biomédicas", "Creditos": 2},
+        {"Materia": "Tissue Engineering", "Creditos": 2},
+        {"Materia": "Tissue Engineering Laboratory", "Creditos": 0}
+      ],
+
+      "Sexto Semestre": [
+        {"Materia": "Biomecánica Clínica", "Creditos": 2},
+        {"Materia": "Electiva de Profundización", "Creditos": 3},
+        {"Materia": "Equipos de Monitoreo y Diagnóstico Médico", "Creditos": 2},
+        {"Materia": "Ingeniería Hospitalaria", "Creditos": 3},
+        {"Materia": "Instrumentación Biomédica", "Creditos": 3},
+        {"Materia": "Laboratorio Biomecánica Clínica", "Creditos": 0},
+        {"Materia": "Laboratorio Equipos de Monitoreo y Diagnóstico Médico", "Creditos": 0},
+        {"Materia": "Laboratorio Ingeniería Hospitalaria", "Creditos": 0},
+        {"Materia": "Laboratorio Instrumentación Biomédica", "Creditos": 0},
+        {"Materia": "Tele-robótica Médica", "Creditos": 3}
+      ],
+
+      "Septimo Semestre": [
+        {"Materia": "Biomecánica Clínica", "Creditos": 2},
+        {"Materia": "Electiva de Profundización", "Creditos": 3},
+        {"Materia": "Electiva de Contexto", "Creditos": 3},
+        {"Materia": "Electiva de Profundización", "Creditos": 3},
+        {"Materia": "Investigación de Operaciones I", "Creditos": 3},
+        {"Materia": "Proyecto en Ingeniería Biomédica I", "Creditos": 2}
+      ],
+
+      "Octavo Semestre": [
+        {"Materia": "Diseño en Medicina Personalizada", "Creditos": 3},
+        {"Materia": "Electiva de Contexto", "Creditos": 3},
+        {"Materia": "Electiva de Profundización", "Creditos": 9},
+        {"Materia": "Equipos Médicos Avanzados", "Creditos": 2},
+        {"Materia": "Laboratorio Equipos Médicos Avanzados", "Creditos": 0}
+      ],
+
+      "Noveno Semestre": [
+        {"Materia": "Práctica Académica", "Creditos": 12},
+        {"Materia": "Proyecto de Diseño en Medicina Personalizada", "Creditos": 2}
+      ],
+      "creditos totales": 153
+    },
+    "Ingenieria de Sistemas": {
+      "Primer Semestre": [
+        {"Materia": "Álgebra Lineal", "Creditos": 3},
+        {"Materia": "Cálculo Diferencial", "Creditos": 4},
+        {"Materia": "Expresión", "Creditos": 4},
+        {"Materia": "Fundamentos de Programación", "Creditos": 3},
+        {"Materia": "Seminario de Ingeniería I", "Creditos": 2}
+      ],
+
+      "Segundo Semestre": [
+        {"Materia": "Cálculo Integral", "Creditos": 4},
+        {"Materia": "Diseño de Interfaces de Usuario", "Creditos": 3},
+        {"Materia": "Identidad", "Creditos": 3},
+        {"Materia": "Laboratorio de Mecánica", "Creditos": 0},
+        {"Materia": "Mecánica y Laboratorio", "Creditos": 3},
+        {"Materia": "Programación de Computadores", "Creditos": 3}
+      ],
+
+      "Tercer Semestre": [
+        {"Materia": "Cálculo en Varias Variables", "Creditos": 3},
+        {"Materia": "Creatividad", "Creditos": 3},
+        {"Materia": "Electromagnetismo y Laboratorio", "Creditos": 3},
+        {"Materia": "Estructura de Datos y Análisis de Algoritmos", "Creditos": 3},
+        {"Materia": "Laboratorio de Electromagnetismo", "Creditos": 0},
+        {"Materia": "Matemáticas Computacionales", "Creditos": 3},
+        {"Materia": "Seminario de Ingeniería II", "Creditos": 2}
+      ],
+
+      "Cuarto Semestre": [
+        {"Materia": "Bases de Datos I", "Creditos": 3},
+        {"Materia": "Desarrollo Multimedia", "Creditos": 3},
+        {"Materia": "Ecuaciones Diferenciales", "Creditos": 3},
+        {"Materia": "Estadística General", "Creditos": 3},
+        {"Materia": "Laboratorio de Redes", "Creditos": 0},
+        {"Materia": "Sistemas Operativos", "Creditos": 3}
+      ],
+
+      "Quinto Semestre": [
+        {"Materia": "Algoritmos y Estructuras de Datos Avanzados", "Creditos": 3},
+        {"Materia": "Bases de Datos II", "Creditos": 3},
+        {"Materia": "Desarrollo de Aplicaciones Web", "Creditos": 3},
+        {"Materia": "Electiva de Profundización", "Creditos": 3},
+        {"Materia": "Redes y Comunicaciones", "Creditos": 3},
+        {"Materia": "Sistemas de Información", "Creditos": 3}
+      ],
+
+      "Sexto Semestre": [
+        {"Materia": "Análisis y Diseño de Sistemas", "Creditos": 3},
+        {"Materia": "Ciencia de Datos e Inteligencia Artificial", "Creditos": 3},
+        {"Materia": "Desarrollo de Software", "Creditos": 3},
+        {"Materia": "Electiva de Profundización", "Creditos": 3},
+        {"Materia": "Laboratorio de Inteligencia Artificial", "Creditos": 0},
+        {"Materia": "Sistemas Distribuidos", "Creditos": 3}
+      ],
+
+      "Septimo Semestre": [
+        {"Materia": "Diseño de Sistemas Informáticos", "Creditos": 3},
+        {"Materia": "Electiva de Profundización", "Creditos": 3},
+        {"Materia": "Gestión de Proyectos de Tecnología", "Creditos": 3},
+        {"Materia": "Redes de Computadoras", "Creditos": 3},
+        {"Materia": "Seguridad Informática", "Creditos": 3},
+        {"Materia": "Seminario de Ingeniería III", "Creditos": 2}
+      ],
+
+      "Octavo Semestre": [
+        {"Materia": "Computación en la Nube", "Creditos": 3},
+        {"Materia": "Electiva de Profundización", "Creditos": 3},
+        {"Materia": "Sistemas de Información Geográfica", "Creditos": 3},
+        {"Materia": "Tecnologías Emergentes", "Creditos": 3},
+        {"Materia": "Tesis o Proyecto de Titulación", "Creditos": 3}
+      ],
+
+      "Noveno Semestre": [
+        {"Materia": "Práctica Académica", "Creditos": 12}
+    ],
+    "creditos totales" : 151
+    },
+    "Ingenieria en Energia y Sostenibilidad": {
+      "Primer Semestre": [
+        {"Materia": "Álgebra Lineal", "Creditos": 3},
+        {"Materia": "Cálculo Diferencial", "Creditos": 4},
+        {"Materia": "Expresión", "Creditos": 4},
+        {"Materia": "Ideando la Ingeniería", "Creditos": 2},
+        {"Materia": "Química del Ambiente y la Energía", "Creditos": 3}
+      ],
+
+      "Segundo Semestre": [
+        {"Materia": "Cálculo Integral", "Creditos": 4},
+        {"Materia": "Dibujo de Ingeniería", "Creditos": 2},
+        {"Materia": "Energía y Desarrollo Sostenible", "Creditos": 2},
+        {"Materia": "Fundamentos de Programación", "Creditos": 3},
+        {"Materia": "Identidad", "Creditos": 3},
+        {"Materia": "Laboratorio de Mecánica", "Creditos": 0},
+        {"Materia": "Mecánica y Laboratorio", "Creditos": 3}
+      ],
+  
+      "Tercer Semestre": [
+        {"Materia": "Cálculo en Varias Variables", "Creditos": 3},
+        {"Materia": "Creatividad", "Creditos": 3},
+        {"Materia": "Dinámica de la Ingeniería", "Creditos": 2},
+        {"Materia": "Electromagnetismo y Laboratorio", "Creditos": 3},
+        {"Materia": "Estadística Descriptiva", "Creditos": 3},
+        {"Materia": "Laboratorio de Electromagnetismo", "Creditos": 0},
+        {"Materia": "Programación de Computadores", "Creditos": 3}
+      ],
+
+      "Cuarto Semestre": [
+        {"Materia": "Circuitos Eléctricos", "Creditos": 3},
+        {"Materia": "Ecuaciones Diferenciales", "Creditos": 3},
+        {"Materia": "Electiva Sociohumanística", "Creditos": 3},
+        {"Materia": "Estadística Inferencial y Muestreo", "Creditos": 3},
+        {"Materia": "Laboratorio de Circuitos Eléctricos", "Creditos": 0},
+        {"Materia": "Laboratorio Termofluidos", "Creditos": 0},
+        {"Materia": "Tecnologías Ambientales", "Creditos": 2},
+        {"Materia": "Termofluidos", "Creditos": 3}
+      ],
+
+      "Quinto Semestre": [
+        {"Materia": "Curso Ciclo Menor I", "Creditos": 3},
+        {"Materia": "Energía de la Biomasa", "Creditos": 2},
+        {"Materia": "Energía Solar Fotovoltaica", "Creditos": 2},
+        {"Materia": "Ingeniería del Entorno - Energía y Sostenibilidad", "Creditos": 2},
+        {"Materia": "Laboratorio de Máquinas Eléctricas", "Creditos": 0},
+        {"Materia": "Máquinas Eléctricas", "Creditos": 3},
+        {"Materia": "Termodinámica Aplicada", "Creditos": 3},
+        {"Materia": "Transporte y Aprovechamiento de Fluidos", "Creditos": 3}
+      ],
+
+      "Sexto Semestre": [
+        {"Materia": "Ciencia de Datos e Inteligencia Artificial", "Creditos": 3},
+        {"Materia": "Curso Ciclo Menor II", "Creditos": 3},
+        {"Materia": "Generación Convencional Sostenible", "Creditos": 3},
+        {"Materia": "Instrumentación y Control de Procesos", "Creditos": 3},
+        {"Materia": "Laboratorio de Instrumentación y Control de Procesos", "Creditos": 0},
+        {"Materia": "Procesos y Sistemas de Transferencia de Calor", "Creditos": 3},
+        {"Materia": "Redes e Instalaciones Eléctricas", "Creditos": 3}
+      ],
+
+      "Septimo Semestre": [
+        {"Materia": "Combustibles, Biocombustibles e Hidrógeno", "Creditos": 3},
+        {"Materia": "Curso Ciclo Menor III", "Creditos": 3},
+        {"Materia": "Energía Eólica e Hidráulica", "Creditos": 2},
+        {"Materia": "Energía Geotermal y Solar Térmica", "Creditos": 2},
+        {"Materia": "Gestión y Evaluación de Proyectos Sostenibles", "Creditos": 3},
+        {"Materia": "Pensamiento e Indagación - Energía y Sostenibilidad", "Creditos": 2},
+        {"Materia": "Sistemas Eléctricos de Potencia", "Creditos": 3}
+      ],
+
+      "Octavo Semestre": [
+        {"Materia": "Análisis de Ciclo de Vida y Economía Circular", "Creditos": 3},
+        {"Materia": "Curso Ciclo Menor IV", "Creditos": 3},
+        {"Materia": "Eficiencia y Sistemas de Gestión Energética", "Creditos": 3},
+        {"Materia": "Integración de Fuentes y Almacenamiento de Energía", "Creditos": 3},
+        {"Materia": "Mercados de Energía", "Creditos": 3},
+        {"Materia": "Soluciones Innovadoras Aplicadas en Energía y Sostenibilidad", "Creditos": 3}
+      ],
+
+      "Noveno Semestre": [
+        {"Materia": "Curso Ciclo Menor de Contexto", "Creditos": 3},
+        {"Materia": "Práctica Profesional en Ingeniería en Energía y Sostenibilidad", "Creditos": 12}
+      ],
+      "creditos totales" : 154 },
+   
+        "Ingenieria Financiera": {
+          "Primer Semestre": [
+            {"Materia": "Álgebra Lineal", "Creditos": 3},
+            {"Materia": "Cálculo Diferencial", "Creditos": 4},
+            {"Materia": "Expresión", "Creditos": 4},
+            {"Materia": "Fundamentos de Programación", "Creditos": 3},
+            {"Materia": "Seminario de Ingeniería I", "Creditos": 1},
+            {"Materia": "Sistemas Contables", "Creditos": 2}
+          ],
+    
+          "Segundo Semestre": [
+            {"Materia": "Cálculo Integral", "Creditos": 4},
+            {"Materia": "Identidad y Emprendimiento", "Creditos": 3},
+            {"Materia": "Laboratorio de Mecánica", "Creditos": 0},
+            {"Materia": "Matemáticas Financieras", "Creditos": 3},
+            {"Materia": "Mecánica y Laboratorio", "Creditos": 3},
+            {"Materia": "Programación de Computadores", "Creditos": 3},
+            {"Materia": "Seminario de Ingeniería II", "Creditos": 1}
+          ],
+       
+          "Tercer Semestre": [
+            {"Materia": "Cálculo en Varias Variables", "Creditos": 3},
+            {"Materia": "Costos", "Creditos": 3},
+            {"Materia": "Creatividad Aplicada", "Creditos": 3},
+            {"Materia": "Electromagnetismo y Laboratorio", "Creditos": 3},
+            {"Materia": "Estadística Descriptiva", "Creditos": 4},
+            {"Materia": "Laboratorio de Electromagnetismo", "Creditos": 0},
+            {"Materia": "Seminario de Ingeniería III", "Creditos": 1}
+          ],
+    
+          "Cuarto Semestre": [
+            {"Materia": "Análisis Financiero", "Creditos": 3},
+            {"Materia": "Ecuaciones Diferenciales", "Creditos": 3},
+            {"Materia": "Estadística Inferencial y Muestreo", "Creditos": 4},
+            {"Materia": "Mercado de Capitales", "Creditos": 3},
+            {"Materia": "Microeconomía I", "Creditos": 4}
+          ],
+     
+          "Quinto Semestre": [
+            {"Materia": "Electiva Sociohumanística", "Creditos": 3},
+            {"Materia": "Finanzas Corporativas Corto Plazo", "Creditos": 3},
+            {"Materia": "Forwards y Futuros", "Creditos": 3},
+            {"Materia": "Macroeconomía I", "Creditos": 4},
+            {"Materia": "Modelos Operacionales y Estocásticos", "Creditos": 3},
+            {"Materia": "Taller de Deportes, Recreación y Cultura", "Creditos": 1}
+          ],
+    
+          "Sexto Semestre": [
+            {"Materia": "Econometría", "Creditos": 4},
+            {"Materia": "Electiva de Contexto", "Creditos": 4},
+            {"Materia": "Finanzas Corporativas Largo Plazo", "Creditos": 3},
+            {"Materia": "Swaps y Opciones", "Creditos": 3},
+            {"Materia": "Valoración de Activos Financieros", "Creditos": 3}
+          ],
+     
+          "Septimo Semestre": [
+            {"Materia": "Diseño de Productos Financieros", "Creditos": 2},
+            {"Materia": "Electiva de Contexto", "Creditos": 2},
+            {"Materia": "Electiva de Profundización", "Creditos": 6},
+            {"Materia": "Formulación y Evaluación de Proyectos", "Creditos": 3},
+            {"Materia": "Portafolios de Inversión", "Creditos": 4}
+          ],
+       
+          "Octavo Semestre": [
+            {"Materia": "Deontología del Ingeniero Financiero", "Creditos": 2},
+            {"Materia": "Electiva Sociohumanística", "Creditos": 3},
+            {"Materia": "Electiva de Profundización", "Creditos": 6},
+            {"Materia": "Riesgos Financieros", "Creditos": 4},
+            {"Materia": "Valoración de Empresas", "Creditos": 2}
+          ],
+ 
+          "Noveno Semestre": [
+            {"Materia": "Actividades Libres de Recreación, Deporte y Cultura y de Desarrollo Humano", "Creditos": 2},
+            {"Materia": "Práctica en Ingeniería Financiera", "Creditos": 12},
+            {"Materia": "Taller de Desarrollo Humano", "Creditos": 1},
+            {"Materia": "Trabajo de Grado", "Creditos": 2}
+          ],
+          "creditos totales": 153 },
+        
+        "Ingeniería Industrial": {
+            "Primer Semestre": [
+            {"Materia": "ALGEBRA LINEAL", "Creditos": 3},
+            {"Materia": "CALCULO DIFERENCIAL", "Creditos": 4},
+            {"Materia": "EXPRESION", "Creditos": 4},
+            {"Materia": "IDEANDO LA INGENIERIA", "Creditos": 2},
+            {"Materia": "INTRODUCCION A LA INGENIERIA INDUSTRIAL", "Creditos": 2}
+            ],
+            "Segundo Semestre": [
+            {"Materia": "CALCULO INTEGRAL", "Creditos": 4},
+            {"Materia": "ELECTIVA", "Creditos": 3},
+            {"Materia": "ENTORNO ECONOMICO", "Creditos": 2},
+            {"Materia": "FUNDAMENTOS DE PROGRAMACION", "Creditos": 3},
+            {"Materia": "IDENTIDAD", "Creditos": 3},
+            {"Materia": "LABORATORIO DE MECANICA", "Creditos": 0},
+            {"Materia": "MECANICA Y LABORATORIO", "Creditos": 3}
+            ],
+            "Tercer Semestre": [
+            {"Materia": "CALCULO EN VARIAS VARIABLES", "Creditos": 3},
+            {"Materia": "CREATIVIDAD", "Creditos": 3},
+            {"Materia": "DINAMICA DE LA INGENIERIA", "Creditos": 2},
+            {"Materia": "ELECTROMAGNETISMO Y LABORATORIO", "Creditos": 3},
+            {"Materia": "ESTADISTICA DESCRIPTIVA", "Creditos": 3},
+            {"Materia": "LABORATORIO DE ELECTROMAGNETISMO", "Creditos": 0},
+            {"Materia": "PROGRAMACION DE COMPUTADORES", "Creditos": 3}
+            ],
+            "Cuarto Semestre": [
+            {"Materia": "CADENAS DE SUMINISTRO", "Creditos": 3},
+            {"Materia": "ECUACIONES DIFERENCIALES", "Creditos": 3},
+            {"Materia": "ELECTIVA", "Creditos": 3},
+            {"Materia": "ESTADISTICA INFERENCIAL Y MUESTREO", "Creditos": 3},
+            {"Materia": "INGENIERIA Y FINANZAS", "Creditos": 3},
+            {"Materia": "MATERIALES Y PROCESOS DE MANUFACTURA", "Creditos": 3}
+            ],
+            "Quinto Semestre": [
+            {"Materia": "ANALISIS DE PROCESOS", "Creditos": 3},
+            {"Materia": "CIENCIA DE DATOS E INTELIGENCIA ARTIFICIAL", "Creditos": 3},
+            {"Materia": "GESTION INTEGRAL DE LA CALIDAD", "Creditos": 3},
+            {"Materia": "INGENIERIA DE PROYECTOS", "Creditos": 2},
+            {"Materia": "INGENIERIA DEL ENTORNO", "Creditos": 2},
+            {"Materia": "OPTIMIZACION", "Creditos": 3},
+            {"Materia": "PLANEACION DE RECURSOS EMPRESARIALES", "Creditos": 2}
+            ],
+            "Sexto Semestre": [
+            {"Materia": "LEAN PROCESSES", "Creditos": 3},
+            {"Materia": "LOGISTICS", "Creditos": 3},
+            {"Materia": "MENOR", "Creditos": 3},
+            {"Materia": "PROPUESTA DE INVESTIGACION EN INGENIERIA", "Creditos": 2},
+            {"Materia": "SEGURIDAD Y SALUD EN EL TRABAJO", "Creditos": 3},
+            {"Materia": "TOMA DE DECISIONES BAJO INCERTIDUMBRE", "Creditos": 4}
+            ],
+            "Septimo Semestre": [
+            {"Materia": "ADVANCED PROJECT PLANNING", "Creditos": 3},
+            {"Materia": "FACILITIES PLANNING", "Creditos": 3},
+            {"Materia": "MENOR", "Creditos": 3},
+            {"Materia": "MENOR", "Creditos": 3},
+            {"Materia": "SIMULACION DE PROCESOS", "Creditos": 4},
+            {"Materia": "SOLUCIONES INNOVADORAS", "Creditos": 2}
+            ],
+            "Octavo Semestre": [
+            {"Materia": "MENOR", "Creditos": 3},
+            {"Materia": "PRACTICA EMPRESARIAL", "Creditos": 12}
+            ],
+          "creditos totales" : 137},
+    "Ingenieria Mecatronica": {
+    "Primer Semestre": [
+      {"Materia": "ALGEBRA LINEAL", "Creditos": 3},
+      {"Materia": "CALCULO DIFERENCIAL", "Creditos": 4},
+      {"Materia": "EXPRESION", "Creditos": 4},
+      {"Materia": "FUNDAMENTOS DE PROGRAMACION", "Creditos": 3},
+      {"Materia": "IDEANDO LA INGENIERIA", "Creditos": 2}
+    ],
+    "Segundo Semestre": [
+      {"Materia": "CALCULO INTEGRAL", "Creditos": 4},
+      {"Materia": "ESTATICA", "Creditos": 2},
+      {"Materia": "IDENTIDAD", "Creditos": 3},
+      {"Materia": "LABORATORIO DE MECANICA", "Creditos": 0},
+      {"Materia": "MECANICA Y LABORATORIO", "Creditos": 3},
+      {"Materia": "PROGRAMACION DE COMPUTADORES", "Creditos": 3},
+      {"Materia": "QUIMICA PARA INGENIEROS", "Creditos": 2}
+    ],
+    "Tercer Semestre": [
+      {"Materia": "CALCULO EN VARIAS VARIABLES", "Creditos": 3},
+      {"Materia": "CREATIVIDAD", "Creditos": 3},
+      {"Materia": "DIBUJO DE INGENIERÍA", "Creditos": 2},
+      {"Materia": "DINAMICA", "Creditos": 2},
+      {"Materia": "DINAMICA DE LA INGENIERIA", "Creditos": 2},
+      {"Materia": "ELECTROMAGNETISMO Y LABORATORIO", "Creditos": 3},
+      {"Materia": "ESTADISTICA DESCRIPTIVA", "Creditos": 3},
+      {"Materia": "LABORATORIO DE ELECTROMAGNETISMO", "Creditos": 0}
+    ],
+    "Cuarto Semestre": [
+      {"Materia": "CIRCUITOS ELECTRICOS", "Creditos": 3},
+      {"Materia": "DIBUJO ASISTIDO POR COMPUTADOR", "Creditos": 2},
+      {"Materia": "ECUACIONES DIFERENCIALES", "Creditos": 3},
+      {"Materia": "LABORATORIO CIRCUITOS ELECTRICOS", "Creditos": 0},
+      {"Materia": "LABORATORIO DE ONDAS Y PARTICULAS", "Creditos": 0},
+      {"Materia": "MATERIALES", "Creditos": 3},
+      {"Materia": "MECANISMOS", "Creditos": 2},
+      {"Materia": "ONDAS Y PARTICULAS", "Creditos": 3},
+      {"Materia": "PROCESOS DE MANUFACTURA", "Creditos": 2}
+    ],
+    "Quinto Semestre": [
+      {"Materia": "ELECTRONICA ANALOGA", "Creditos": 3},
+      {"Materia": "ESTADISTICA INFERENCIAL Y MUESTREO", "Creditos": 3},
+      {"Materia": "INGENIERIA DEL ENTORNO", "Creditos": 2},
+      {"Materia": "LABORATORIO DE ELECTRONICA ANALOGA", "Creditos": 0},
+      {"Materia": "LABORATORIO SISTEMAS EMBEBIDOS", "Creditos": 0},
+      {"Materia": "LABORATORIO TERMOFLUIDOS", "Creditos": 0},
+      {"Materia": "MODELAMIENTO Y SIMULACION", "Creditos": 2},
+      {"Materia": "PROCESAMIENTO DE SEÑALES E IMAGENES", "Creditos": 2},
+      {"Materia": "SISTEMAS EMBEBIDOS", "Creditos": 2},
+      {"Materia": "TERMOFLUIDOS", "Creditos": 3}
+    ],
+    "Sexto Semestre": [
+      {"Materia": "AUTOMATIZACION INDUSTRIAL I", "Creditos": 3},
+      {"Materia": "CIENCIA DE DATOS E INTELIGENCIA ARTIFICIAL", "Creditos": 3},
+      {"Materia": "DISEÑO DE ELEMENTOS DE MAQUINA", "Creditos": 2},
+      {"Materia": "ELECTRONICA DE POTENCIA", "Creditos": 2},
+      {"Materia": "LABORATORIO DE AUTOMATIZACION INDUSTRIAL I", "Creditos": 0},
+      {"Materia": "LABORATORIO DE MAQUINAS", "Creditos": 0},
+      {"Materia": "LABORATORIO DE SISTEMAS FLEXIBLES DE MANUFACTURA", "Creditos": 0},
+      {"Materia": "LABORATORIO DE TEORIA DE CONTROL", "Creditos": 0},
+      {"Materia": "LABORATORIO ELECTRONICA DE POTENCIA", "Creditos": 0},
+      {"Materia": "MAQUINAS", "Creditos": 3},
+      {"Materia": "SISTEMAS FLEXIBLES DE MANUFACTURA", "Creditos": 2},
+      {"Materia": "TEORIA DE CONTROL", "Creditos": 3}
+    ],
+    "Septimo Semestre": [
+      {"Materia": "AUTOMATIZACION INDUSTRIAL II", "Creditos": 3},
+      {"Materia": "CURSO CICLO MENOR I", "Creditos": 3},
+      {"Materia": "CURSO CICLO MENOR II", "Creditos": 3},
+      {"Materia": "DISEÑO MECATRONICO", "Creditos": 2},
+      {"Materia": "LABORATORIO DE AUTOMATIZACION INDUSTRIAL II", "Creditos": 0},
+      {"Materia": "LABORATORIO DE OLEONEUMATICA", "Creditos": 0},
+      {"Materia": "LABORATORIO DE ROBOTICA", "Creditos": 0},
+      {"Materia": "OLEONEUMATICA", "Creditos": 2},
+      {"Materia": "PENSAMIENTO E INDAGACION", "Creditos": 2},
+      {"Materia": "ROBOTICA", "Creditos": 2}
+    ],
+    "Octavo Semestre": [
+      {"Materia": "CURSO CICLO MENOR III", "Creditos": 3},
+      {"Materia": "CURSO CICLO MENOR IV", "Creditos": 3},
+      {"Materia": "ELECTIVA SOCIOHUMANISTICA", "Creditos": 3},
+      {"Materia": "EVALUACION DE PROYECTOS", "Creditos": 2},
+      {"Materia": "GESTION DEL MANTENIMIENTO", "Creditos": 2},
+      {"Materia": "LABORATORIO DE REDES DE COMUNICACION INDUSTRIAL", "Creditos": 0},
+      {"Materia": "REDES DE COMUNICACION INDUSTRIAL", "Creditos": 2},
+      {"Materia": "SOLUCIONES INNOVADORAS APLICADAS", "Creditos": 3}
+    ],
+    "Noveno Semestre": [
+      {"Materia": "ELECTIVA DE CONTEXTO", "Creditos": 3},
+      {"Materia": "PRACTICA PROFESIONAL", "Creditos": 12}
+    ],
+    "creditos totales":154
+    }}
+   
+
+  
